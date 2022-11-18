@@ -17,3 +17,27 @@ https://lk.hacks-ai.ru/758467/champ
 
 Ноутбук для соревнования: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DmitriyKhodykin/PochtaRF_Competition/blob/main/main.ipynb)
 
+### Итоговый результат
+
+'''
+Evaluation parameter	| Validation sample	| Test sample
+-------------------------------------------------------
+Competition-score     | 0.9663            | 0.9331
+AUC-score	            | 0.9914	          | 0.9860
+Precision	            | 0.6608	          | 0.6506
+Recall	              | 0.7395	          | 0.4571
+F1-score	            | 0.6979	          | 0.5370
+'''
+
+### ROC-кривая
+
+[](./Out/Rep/valid_roc_curve.png)
+
+### ROC/PR-кривая
+
+[](./Out/Rep/valid_pr_curve.png)
+
+### F1-чарт
+
+[](./Out/Rep/valid_pie_f1_metric.png)
+

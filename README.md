@@ -20,13 +20,13 @@ https://lk.hacks-ai.ru/758467/champ
 ### Итоговый результат
 
 ```
-Evaluation parameter	  | Validation sample	  | Test sample
+Evaluation parameter     | Validation sample     | Test sample
 ------------------------------------------------------------------
-Competition-score       | 0.9663              | 0.9331
-AUC-score	              | 0.9914	            | 0.9860
-Precision	              | 0.6608	            | 0.6506
-Recall	                | 0.7395	            | 0.4571
-F1-score	              | 0.6979	            | 0.5370
+Competition-score        | 0.9663                | 0.9331
+AUC-score                | 0.9914                | 0.9860
+Precision                | 0.6608                | 0.6506
+Recall                   | 0.7395                | 0.4571
+F1-score                 | 0.6979                | 0.5370
 ```
 
 ### ROC-кривая

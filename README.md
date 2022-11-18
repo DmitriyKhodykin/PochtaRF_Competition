@@ -11,3 +11,9 @@
 Точное предсказание пропаж и их локализация позволит повысить надежность системы — гарантировать доставку отправлений в срок и снизить расходы на транспортировку. Предлагаем участникам чемпионата решить эту задачу — разработать модель предсказания потери почтовых отправлений.
 
 https://lk.hacks-ai.ru/758467/champ
+
+
+# Решение
+
+Ноутбук для соревнования: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DmitriyKhodykin/PochtaRF_Competition/blob/main/main.ipynb)
+
